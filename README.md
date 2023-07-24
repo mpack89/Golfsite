@@ -11,7 +11,7 @@ The 19th Hole was built using:
 
 Usage:
   
-  There is a description on the site for use of the Handicap Calculator, but basically it works by taking best scores out of your last few rounds and finding the acerage of said scores.
+  There is a description on the site for use of the Handicap Calculator, but basically it works by taking your best scores out of your last few rounds and finding the average of said scores.
   The Virtual scorecard has local storage added, so in the event your phone refereshes you will be able to get your card back for the current round by pressing the 'Restore Card' button.
   The Virtual scorecard also contains a 'Reset Card' button which will reset the current card and clear the local storage as well.
   The Live Leaderboard contains the World golf rankings and is not a FedEx cup point leaderboard, so it will differ from the FedEx Cup leaderboard because the scoring includes a larger
