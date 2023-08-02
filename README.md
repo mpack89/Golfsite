@@ -1,6 +1,7 @@
 # The 19th Hole
 This is my first project as a student in the Get Coding program. I'm an avid golfer and really enjoy watching the game and following the PGA Tour. The site I've created has a personal handicap calculator,
 a virtual scorecard, a live leaderboard of world golf rankings and a golf trivia game for a bit of fun.
+You can visit the live site here ---> [mpack89.github.io](https://mpack89.github.io/)
 
 The 19th Hole was built using:
 
